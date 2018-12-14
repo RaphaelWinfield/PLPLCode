@@ -5,3 +5,7 @@ yr_ServerInterfaceDemo：基于TCP的网络服务器接口
 yr_webDemo(jsp+html):利用jsp或html文件进行web交互
 
 yr_webDemo(juery+json):利用juery和json进行web交互
+
+yr_mybatisTest:mybatis配置实现
+
+yr_Strust2Test:struts2配置实现
