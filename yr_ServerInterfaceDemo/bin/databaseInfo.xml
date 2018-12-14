@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF8"?>
+
+<database>
+	<databaseInfo>
+		<url>jdbc:mysql://localhost:3306/test?&amp;useUnicode=true&amp;useSSL=false&amp;serverTimezone=GMT%2B8&amp;characterEncoding=utf8</url>
+		<user>root</user>
+		<password>qq475075517</password>
+	</databaseInfo>
+</database>
